@@ -4,6 +4,8 @@ Movie app is a web app that allows movie lovers to see a list of their favorite 
 # Web presentation
 ## Video Presentation
 [Presentation Link](https://drive.google.com/file/d/1vwaWVmaKlVsvuvwifgtkHM00HGfFUemn/view?usp=sharing)
+
+## Live Demo
 [live Demo](https://kelomo2502.github.io/movie-app/)
 
 Additional description about the project and its features.
