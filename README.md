@@ -1,9 +1,10 @@
 
-# API web-base application
-this project is about movies and series collections from an API which helps users to view list of different movies, like a movie of their choice and also add comments to their favorite movies. 
+# Move-app 
+Movie app is a web app that allows movie lovers to see a list of their favorite movies, filter through the categories and select movies of their choice. It also allows viewers to like , unlike and give comments and rating to selected movies. 
 # Web presentation
 ## Video Presentation
 [Presentation Link](https://drive.google.com/file/d/1vwaWVmaKlVsvuvwifgtkHM00HGfFUemn/view?usp=sharing)
+[live Demo](https://kelomo2502.github.io/movie-app/)
 
 Additional description about the project and its features.
 
